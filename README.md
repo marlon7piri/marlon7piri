@@ -1,5 +1,6 @@
 
-![imagen github wallpaper](https://github.com/marlon7piri/marlon7piri/assets/110213632/1a892ae6-89eb-4029-b0fd-1e0dd95aed69)
+![imagen github wallpaper](https://github.com/marlon7piri/marlon7piri/assets/110213632/6a70f6c1-c140-4c30-9c2b-5b4b18ef8488)
+
 
 
 
