@@ -1,6 +1,12 @@
 ¡Hola👋 soy Marlon 🤵‍♂
+
 Soy programador FullStack
-![imagenport](https://github.com/marlon7piri/marlon7piri/assets/110213632/dd1d26d6-53e7-4f1b-a864-361d26c8f9ac)
+
+
+
+![imagen github wallpaper](https://github.com/marlon7piri/marlon7piri/assets/110213632/9609bf43-5158-4ec1-8a78-3bb96ee509a8)
+
+
 
 - 🔭 Actualmente trabajo en proyectos personales, enfocados mas en el lenguaje de JAVA.
 - 🌱 Actualmente aprendo Java, React.
@@ -21,6 +27,9 @@ Lenguajes y Herramientas 💻
 ![pngegg (6)](https://github.com/marlon7piri/marlon7piri/assets/110213632/492310de-77aa-4834-a38f-256f089dd4e4)
 ![pngegg (7)](https://github.com/marlon7piri/marlon7piri/assets/110213632/1d1060a4-d408-44ea-aca6-b293c3a3cd2d)
 ![pngegg (9)](https://github.com/marlon7piri/marlon7piri/assets/110213632/9c6edf4a-84bf-41ba-9211-ba4e65996dfa)
+
+
+![Working_at_home_vector](https://github.com/marlon7piri/marlon7piri/assets/110213632/332844d2-7506-4667-abb7-96b76c4dd5b9)
 
 
 
