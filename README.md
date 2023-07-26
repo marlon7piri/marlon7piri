@@ -1,10 +1,5 @@
-¡Hola👋 soy Marlon 🤵‍♂
 
-Soy programador FullStack
-
-
-
-![imagen github wallpaper](https://github.com/marlon7piri/marlon7piri/assets/110213632/9609bf43-5158-4ec1-8a78-3bb96ee509a8)
+![imagen github wallpaper](https://github.com/marlon7piri/marlon7piri/assets/110213632/1a892ae6-89eb-4029-b0fd-1e0dd95aed69)
 
 
 
