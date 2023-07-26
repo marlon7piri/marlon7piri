@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente trabajo en proyectos personales, enfocados mas en el lenguaje de JAVA.
 - 🌱 Actualmente aprendo Java, React.
-- 👯 Me gustaría trabajar en colaboracion con los miembros de alguna empresa.
+- 👯 Me gustaría trabajar en colaboración con los miembros de alguna empresa.
 - 🤔 Me gustaía ayudar al mundo con la magia de la programación!
 - 💬 Puedes preguntarme lo que desees 😃
 
