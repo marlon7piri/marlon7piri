@@ -1,20 +1,10 @@
 ¡Hola👋 soy Marlon 🤵‍♂️
-- 🔭 Actualmente trabajo en proyectos personales, enfocados mas en el lenguaje de JAVA.
-- 🌱 Actualmente aprendo Java, React.
-- 👯 Me gustaría trabajar en colaboracion con los miembros de alguna empresa.
-- 🤔 Me gustaía ayudar al mundo con la magia de la programación
-- 💬 Puedes preguntarme lo que desees 😃
-<!--
-**marlon7piri/marlon7piri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![imagenport](https://github.com/marlon7piri/marlon7piri/assets/110213632/dd1d26d6-53e7-4f1b-a864-361d26c8f9ac)
 
 - 🔭 Actualmente trabajo en proyectos personales, enfocados mas en el lenguaje de JAVA.
 - 🌱 Actualmente aprendo Java, React.
 - 👯 Me gustaría trabajar en colaboracion con los miembros de alguna empresa.
-- 🤔 Me gustaía ayudar al mundo con la magia de la programación
+- 🤔 Me gustaía ayudar al mundo con la magia de la programación![Arendelle]
+
 - 💬 Puedes preguntarme lo que desees 😃
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
