@@ -18,10 +18,10 @@ Lenguajes y Herramientas 💻
 ![mysql](https://github.com/marlon7piri/marlon7piri/assets/110213632/1ae50ac7-9b80-4214-84ad-73123bb17339)
 ![pngegg (4)](https://github.com/marlon7piri/marlon7piri/assets/110213632/e344899c-eb74-4324-b187-412b73899d25)
 ![pngegg (5)](https://github.com/marlon7piri/marlon7piri/assets/110213632/567e1d01-c50f-48c6-bb12-236db28e98e0)
+![pngegg (9)](https://github.com/marlon7piri/marlon7piri/assets/110213632/9c6edf4a-84bf-41ba-9211-ba4e65996dfa)
 ![pngegg (12)](https://github.com/marlon7piri/marlon7piri/assets/110213632/3987b174-3d19-4843-ad33-d4773dbf1c57)
 ![pngegg (6)](https://github.com/marlon7piri/marlon7piri/assets/110213632/492310de-77aa-4834-a38f-256f089dd4e4)
 ![pngegg (7)](https://github.com/marlon7piri/marlon7piri/assets/110213632/1d1060a4-d408-44ea-aca6-b293c3a3cd2d)
-![pngegg (9)](https://github.com/marlon7piri/marlon7piri/assets/110213632/9c6edf4a-84bf-41ba-9211-ba4e65996dfa)
 
 
 ![Working_at_home_vector](https://github.com/marlon7piri/marlon7piri/assets/110213632/332844d2-7506-4667-abb7-96b76c4dd5b9)
