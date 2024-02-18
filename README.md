@@ -4,10 +4,9 @@
 
 
 
-- 🔭 Actualmente trabajo en proyectos personales, enfocados mas en el lenguaje de JAVA.
-- 🌱 Actualmente aprendo Java, React.
+- 🔭 Actualmente trabajo en proyectos personales, trabajando con tecnologías como Next.js, React, MongoDB, Express, Node, entre otras mas.
 - 👯 Me gustaría trabajar en colaboración con los miembros de alguna empresa.
-- 🤔 Me gustaía ayudar al mundo con la magia de la programación!
+- 🤔 Me gustaía ayudar al mundo en adentrarse a la transformación digital!
 - 💬 Puedes preguntarme lo que desees 😃
 
 Lenguajes y Herramientas 💻
